@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Ods</title>
+      <link rel="stylesheet" href="estilo.css">
+   </head>
+   <body>
+      <h1> ODS, A ESPERANÇA DO MUNDO.</h1>
+      <h2>Você sabe o que é uma ODS?</h2>
+      <h3>Não?</h3>
+      <p>Então eu vou resumir pra você. 
+      Uma ODS na verdade pode ser considerada 2 coisas:</p>
+      <p>- Uma lista de metas.</p>
+      <p>- Um alerta á população.</p>
+      <img src="download1.png">
+      <p>Como meta, cada ODS deseja mudar no mundo seus principais problemas. Ao serem listados foram contabilizados 17.</p>
+      <p>Um exeplo, das varias ODS presentes no site das <a href=https://nacoesunidas.org/pos2015>Nações Unidas</a> é a ODS 5 na qual se refere á Igualdade De Gênero.</p>
+      
+   </body>
+</html>
