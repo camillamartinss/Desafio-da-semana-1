@@ -1,0 +1,19 @@
+body{
+    color: black;
+    background-color: brown;
+}
+h1{
+    color: black;
+    padding-left: 20px;
+    border: 15px;
+}
+h2{
+    padding-left: 100px;
+}
+h3{
+    color: rgb(44, 22, 22);
+    padding-left: 200px;
+}
+p{
+    margin: 15px;
+}
